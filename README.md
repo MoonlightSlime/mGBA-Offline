@@ -1,5 +1,5 @@
 # mGBA-Offline
-A GBA, GBC, and GB emulator running from only an html file entirely offline using mGBA-wasm as a basline
+A GBA, GBC, and GB emulator running from only an html file entirely offline using mGBA-wasm as a basline.
 
 Files
 - mGBA_Offline_vX.X.X.html
