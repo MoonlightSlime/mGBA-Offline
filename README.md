@@ -1,10 +1,9 @@
 # mGBA-Offline
-An all in one gameboy advnace emulator running from only an html file entirely offline based off mGBA-wasm
+A GBA, GBC, and GB emulator running from only an html file entirely offline using mGBA-wasm as a basline
 
 Files
-- GBA_Offline_mGBA_updated.html: standalone emulator. Open it in Chrome/Chromium and load your own legally obtained .gba ROM.
+- mGBA_Offline_vX.X.X.html
 
 Notes
-- ROMs are not included.
-- Saves and save states are stored locally in this browser profile. Keep using the same ROM filename to access the same local save entry.
-- This is a local HTML app; keep a backup of important exported .sav files.
+- ROMs are not included and should be legally obtained.
+- Saves and save states are stored locally in this browser profile which may be reset sometimes so backup your .sav files often.
